@@ -1,10 +1,8 @@
 **MULTI-OMIC MACHINE LEARNING PREDICTOR OF BREAST CANCER THERAPY RESPONSE**
 
-** **
 
 **Authors:** Olabode Kaosara Omowunmi (@TheResearchNerd), Rachael Oluwakamiye Abolade (@Oluwakamiye), Otuekong Emmanuel (@Otuekong), Oluwatobi Ogundepo (@Oluwatobi)
 
-** **
 
 **Introduction**
 
@@ -37,13 +35,8 @@ It is recommended that the model should be expanded to include additional clinic
 
  
 
- 
 
- 
-
- 
-
-References
+**References**
 
 <!--[if !supportLists]-->1.     <!--[endif]-->Arnold M, Morgan E, Rumgay H, Mafra A, Singh D, Laversanne M, Vignat J, Gralow JR, Cardoso F, Siesling S, Soerjomataram I. Current and future burden of breast cancer: Global statistics for 2020 and 2040. Breast. 2022 Dec;66:15-23. doi: 10.1016/j.breast.2022.08.010. Epub 2022 Sep 2. PMID: 36084384; PMCID: PMC9465273.
 
