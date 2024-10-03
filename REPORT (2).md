@@ -3,6 +3,7 @@
 
 **Authors:** Olabode Kaosara Omowunmi (@TheResearchNerd), Rachael Oluwakamiye Abolade (@Oluwakamiye), Otuekong Emmanuel (@Otuekong), Oluwatobi Ogundepo (@Oluwatobi)
 
+Link to video: https://www.linkedin.com/posts/kaosara-olabode-980496225_hackbio-bioinformatics-machine-activity-7241472242960760836-_QiA?utm_source=share&utm_medium=member_android
 
 **Introduction**
 
